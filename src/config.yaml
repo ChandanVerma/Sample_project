@@ -1,0 +1,12 @@
+PATHS:
+    Project_path: /home/chandanv/Drive/Akhil/
+    models_path: /home/chandanv/Drive/Akhil/models/
+    data_path: /home/chandanv/Drive/Akhil/data/
+
+train_file_name: dataset_00_with_header.csv
+model_name : xgboost.dat
+final_feature_list : final_features.csv
+feature_list_before_fs: final_features_before_fs.csv
+predictions_file_name: predictions.csv
+
+test_file_name: dataset_00_with_header.csv
